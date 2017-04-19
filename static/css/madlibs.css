@@ -1,5 +1,55 @@
 body {
     background-color: #ecb3ff;
-    font-family: Arial, sans-serif;
-    color: black;
+}
+
+#gametitle {
+    text-align: center;
+    text-decoration: underline;
+    color: rgb(255, 255, 0);
+}
+
+#madlibwords {
+    border-radius: 300px;
+    border: solid red 5px;
+    text-align: center;
+}
+
+#gif {
+    text-align: center;
+}
+
+#titlegif {
+    text-align: center;
+}
+
+#madlibtext {
+    font-family: courier, monospace;
+    color: #004d99;
+    font-size: 24px;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+#examplemadlib {
+    text-align: center;
+
+}
+
+#linktohello {
+    font-size: 20px;
+    text-align: center;
+}
+
+#hello {
+    font-size: 30px;
+    color: #009933;
+    font-family: Arial;
+    text-align: center;
+}
+
+#name {
+    text-align: center;
+    font-style: Arial;
+    font-size: 20px;
+    color: white;
 }
